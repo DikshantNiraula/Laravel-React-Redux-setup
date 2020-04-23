@@ -4,7 +4,7 @@
     and use it in react to perform action from UI without refreshing of page.
     
     This is made beautifully using react redux.
-    <img src="./Screenshot_1.png" />
+    <img src="https://raw.githubusercontent.com/DikshantNiraula/Laravel-React-Redux-setup/master/Screenshot_1.png" />
     This site looks like this and is made using Materialize css
     
     To use this we can simply
