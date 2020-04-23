@@ -1,4 +1,4 @@
-#<b>This site is made using Laravel for api development, React as Frontend and react-redux as state management tool.
+#<b>This site is made using Laravel for api development, React as Frontend and react-redux as state management tool.</b>
     
     In this site we have made an api for adding post, getting post and deleting post using laravel api and controller..
     and use it in react to perform action from UI without refreshing of page.
