@@ -4,7 +4,7 @@
     and use it in react to perform action from UI without refreshing of page.
     
     This is made beautifully using react redux.
-    <p><img src="./Screenshot_1.png"></p>
+![Alt text](./Screenshot_1.png?raw=true "Title")
     This site looks like this and is made using Materialize css
     
     To use this we can simply
